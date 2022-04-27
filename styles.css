@@ -104,7 +104,7 @@ strong{
 
 }
 .skill-row:hover{
-    transform: scale(1.0050);
+    transform: scale(1.2);
     box-shadow: 7px 7px 7px #00000055;
 
 }
